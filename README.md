@@ -47,8 +47,4 @@ This repository demonstrates and analyzes key algorithms in computational geomet
 - Interview preparation for algorithmic roles
 - Educational demonstrations
 
-## License
-
-This project is open source and available under the MIT License.
-
 ---
